@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://letsseehowthisgoes22.github.io/dfw-teen-transport-guide/sitemap.xml
